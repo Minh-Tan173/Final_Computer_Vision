@@ -142,28 +142,8 @@ streamlit run ShowDataAndResult.py
   - Integrate anti-spoofing
   - Expand dataset size and class diversity
   - Incorporate fine-tuned MobileNet or ArcFace models
-
+    
 ---
 
-## 9. References
-
-```bibtex
-@article{Parkhi2015VGGFace,
-  title={Deep Face Recognition},
-  author={Omkar M Parkhi, Andrea Vedaldi, Andrew Zisserman},
-  journal={BMVC},
-  year={2015}
-}
-
-@article{Deng2020InsightFace,
-  title={InsightFace: Deep Face Analysis Toolkit},
-  author={Jiankang Deng et al.},
-  year={2020},
-  note={https://github.com/deepinsight/insightface}
-}
-```
-
----
-
-## 10. License
+## 9. License
 This project is developed for educational and research purposes. Please refer to the original model licenses (DeepFace, InsightFace) for commercial use.
